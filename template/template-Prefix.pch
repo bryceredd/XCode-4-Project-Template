@@ -12,3 +12,7 @@
     #import <UIKit/UIKit.h>
     #import <Foundation/Foundation.h>
 #endif
+
+#import "BRMacros.h"
+
+#define     API_SENCHA      @"http://src.sencha.io"
